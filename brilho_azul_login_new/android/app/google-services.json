@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717329057146",
+    "project_id": "brilho-azul",
+    "storage_bucket": "brilho-azul.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717329057146:android:755b39b823b66b242ec2c3",
+        "android_client_info": {
+          "package_name": "com.example.brilho_azul_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGaVzzd-4QhN5DZUTmdIVi9nwm0JHqPCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
