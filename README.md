@@ -1,11 +1,11 @@
 ##  Funcionalidades
 
-* **Login Seguro:** Autenticação via E-mail e Senha usando Firebase Authentication.
-* **Cadastro Completo:** Registro de novos usuários capturando dados extras (Nome e Sobrenome).
-* **Armazenamento em Nuvem:** Persistência dos dados do usuário (além do login) utilizando Cloud Firestore.
-* **Feedback Visual:** Indicadores de carregamento e mensagens de erro/sucesso (Snackbars) para melhor UX.
-* **Navegação Inteligente:** Redirecionamento automático e proteção de rotas.
-* **Boas Práticas:** Código limpo, separado em arquivos de responsabilidade única.
+**Login Seguro:** Autenticação via E-mail e Senha usando Firebase Authentication.
+**Cadastro Completo:** Registro de novos usuários capturando dados extras (Nome e Sobrenome).
+**Armazenamento em Nuvem:** Persistência dos dados do usuário (além do login) utilizando Cloud Firestore.
+**Feedback Visual:** Indicadores de carregamento e mensagens de erro/sucesso (Snackbars) para melhor UX.
+**Navegação Inteligente:** Redirecionamento automático e proteção de rotas.
+**Boas Práticas:** Código limpo, separado em arquivos de responsabilidade única.
 
 ##  Tecnologias Utilizadas
 
